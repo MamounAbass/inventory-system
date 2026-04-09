@@ -1,5 +1,7 @@
 Inventory Management System
+
 📍 Enterprise Resource Optimization Project  June 2025
+
 The Inventory Management System (IMS) was developed to optimize stock tracking and warehouse operations for medium-sized enterprises. Built with Laravel (PHP), the solution ensures secure, scalable, and efficient management of inventory data. By reducing manual errors and improving operational transparency, the system empowers businesses to maintain accurate records and streamline workflows.
 Key Deliverables 
 o	Framework used laravel for entire System 
